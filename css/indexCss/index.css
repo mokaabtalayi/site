@@ -320,18 +320,6 @@ a {
 }
 
 
-/* .svg{
-  position: absolute;
-  width: 200px;
-  height: 200px;
-  top: 200px;
-  background-color: #2500f9;
-  clip-path: path(
-    'M0 1Q5 0 167 7 187 187 30 139 1 50 0 5V2Z'
-    
-    );
-} */
-
 .baner__slider {
   display: flex;
   flex-direction: column;
